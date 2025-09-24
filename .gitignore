@@ -1,0 +1,79 @@
+# Visual Studio, VSCode and Rider user specific files
+.vs/
+.idea/
+.vscode/
+*.sln.DotSettings.user
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Build artifacts
+Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.log
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.ilk
+*.exp
+*.map
+*.manifest
+
+# Generated project files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.opensdf
+*.sdf
+*.xcworkspace
+*.xcodeproj
+
+# Source control specific files (if not using Git LFS for large assets)
+# If you are using Git LFS for binary assets, comment out or remove these lines
+# *.uasset
+# *.umap
+
+# Crash reports
+CrashReportClient/
+
+# Debugging symbols
+Debug/
+
+# Collections (can be regenerated)
+Collections/
+
+# Developers folder (user-specific content)
+Developers/
+
+# Editor-specific settings
+Config/DefaultEditor.ini
+Config/DefaultInput.ini
+Config/DefaultScalability.ini
+Config/DefaultGame.ini
+Config/DefaultEngine.ini
+
+# Mac specific files
+.DS_Store
+
+# Linux specific files
+*.o
+*.a
+*.so
+*.lo
+*.la
+*.mod
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Optional: Ignore the Plugins folder if using submodules for plugins
+# Plugins/
